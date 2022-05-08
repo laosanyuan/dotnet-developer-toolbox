@@ -6,22 +6,23 @@
 
 整理的工具和软件包含了开发、学习、求职、生活等各方面，其中绝大多数都为免费或提供免费使用方式的在线或本地工具以及站点。首次上传，可能有些分类尚不合理或内容有所欠缺，后续会不断补充调整，逐渐完善。也欢迎各位好汉提交PR，为中国.Net开发者提供更多的帮助。
 
-本项目主要收集工具默认为在线工具或站点，如为需要下载的本地工具，则以:computer:图标标记区分。​ 
+本项目主要收集工具默认为在线工具或站点，如为需要下载的本地工具，则以:computer:图标标记区分。 
 
 ## .Net相关
 
 * [MSDN](https://docs.microsoft.com/zh-cn/) -  微软相关的官方技术集中地，主要是文档类 
   * [.Net文档](https://docs.microsoft.com/zh-CN/dotnet/fundamentals/)
   * [C#文档](https://docs.microsoft.com/zh-CN/dotnet/csharp/)
-  * [微软C#编码规范]( [C# 编码约定 | Microsoft Docs](https://docs.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding-conventions))
+  * [微软C#编码规范](https://docs.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
 ## IDE
 
-* [:computer:Visual Studio]() - 宇宙第一IDE，不用解释
+* [:computer:Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/) - 宇宙第一IDE，不用解释
 * [:computer:VS Code](https://code.visualstudio.com/) -  是一款由微软开发且跨平台的免费源代码编辑器，插件丰富， 最受开发者欢迎的开发环境 
 
 ## 调试工具
 
+* [:computer:Snoop](https://github.com/snoopwpf/snoopwpf) - 开源的WPF UI探索工具，可以在调试过程中实时浏览WPF程序的属性、Triggers，设置断点等
 * [:computer:Fiddler](https://www.telerik.com/fiddler) - Http代理抓包，本地客户端工具
 * [:computer:Wireshark](https://www.wireshark.org/) - 网络数据包分析软件
 * [:computer:Bus Hound](https://perisoft.net/bushound/) - USB串口抓包软件
@@ -60,7 +61,7 @@
 * [Gitstar Ranking]( https://gitstar-ranking.com/) - GitHub开源项目全球排名
 * [GitHub emoji表情列表](https://github.com/caiyongji/emoji-list) - GitHub支持使用的emoji合集
 
-## 开发常用资源
+## 常用UI资源
 
 ### 字体
 
@@ -69,7 +70,9 @@
 * [自由字体](https://ziyouziti.com/) - 汇聚全网免费字体
 * [DaFont](https://www.dafont.com/) - 提供免费英文字体的全球知名站点
 * [1001 Free Fonts](https://www.1001fonts.com/) - 致力于分享免费英文字体的网站
+* [Use & Modify](https://usemodify.com/) - 各种稀奇古怪英文字体
 * [识字体](https://www.likefont.com/) - 字体识别
+* [VAU Fonts](https://vaufonts.com/) - 在线生成艺术字体，只支持英文内容
 
 ### 配色
 
@@ -78,9 +81,16 @@
 
 ### 图标/矢量图
 
-* [Font Awesome](http://www.fontawesome.com.cn/) - 可缩放矢量图标
+* [Font Awesome](http://www.fontawesome.com.cn/) - 在线获取可缩放矢量图标
 * [Blobmaker](https://www.blobmaker.app/) - 在线SVG形状生成器
 * [阿里巴巴矢量图标库](https://www.iconfont.cn/) - 大量免费矢量图标
+* [:computer:Inkscape](https://inkscape.org/) - 比较流行的本地矢量图形便捷工具，可以完成各种复杂的矢量图绘制
+
+### 图库
+
+* [FreeImages](https://www.freeimages.com/cn) - 免费照片与插图下载，所有照片均可免费用于个人和商业用途
+* [Pexels](https://www.pexels.com/zh-cn/) - 40000+免费商用图片
+* [StockSnap](https://stocksnap.io/) - 海量商用图片免费使用
 
 ## 文档编写
 
@@ -90,7 +100,7 @@
 * [有道云笔记](https://note.youdao.com/) -  网易旗下专注办公提效的笔记软件，用户可以随时随地对线上资料进行编辑、分享以及协同 
 * [语雀](https://www.yuque.com/) - 阿里出品知识库产品呢， 优雅高效的在线文档编辑与协同工具 
 * [石墨文档](https://shimo.im/) -  免费的在线实时协作文档服务，界面简单清晰，多人协同编辑，可以讨论和查看变更 
-* [GitBook]() -  是一款现代化的文档平台,支持团队协作,可以在上面写产品文档、内部知识分享、接口文档、电子书等 
+* [GitBook](https://app.gitbook.com/) -  是一款现代化的文档平台,支持团队协作,可以在上面写产品文档、内部知识分享、接口文档、电子书等 
 
 ### 编辑器
 
@@ -133,6 +143,7 @@
 
 * [Boss直聘](https://www.zhipin.com/) - 互联网行业最常用的招聘/求职平台
 * [脉脉](https://maimai.cn/) - 实名制商业社交平台，了解业内新鲜资讯
+* [Linkedin](https://www.linkedin.cn/injobs/hp/) - 全世界最大的职业社交网站之一，也是一家面向商业客户的社交网络
 
 ## 社交网站、博客
 
@@ -156,6 +167,8 @@
 * [removebg](https://www.remove.bg/zh) - 在线抠图工具，全自动且免费
 * [忙忙侠](https://www.6k6k.cn/) - 免费AI抠图
 * [定稿](https://www.uupoop.com/#/) - 在线PS
+* [TinyPNG](https://tinypng.com/) - 在线压缩Png/Jpg文件
+* [CloudConvert](https://cloudconvert.com/) - 在线图片格式转换
 * [草料二维码](https://cli.im/) - 在线二维码生成、解析工具
 * [carbon](https://carbon.now.sh/) - 在线代码转图片工具，适用于代码显示不友好的情况下贴图使用
 * [codeimg](https://codeimg.io/) - 在线代码转图片工具
