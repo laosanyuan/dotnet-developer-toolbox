@@ -8,12 +8,14 @@
 
 本项目主要收集工具默认为在线工具或站点，如为需要下载的本地工具，则以:computer:图标标记区分。 
 
-## .Net相关
+## .Net相关知识
 
 * [MSDN](https://docs.microsoft.com/zh-cn/) -  微软相关的官方技术集中地，主要是文档类 
   * [.Net文档](https://docs.microsoft.com/zh-CN/dotnet/fundamentals/)
   * [C#文档](https://docs.microsoft.com/zh-CN/dotnet/csharp/)
   * [微软C#编码规范](https://docs.microsoft.com/zh-cn/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+* [Design-Pattern](https://github.com/sheng-jie/Design-Pattern) - C#版设计模式demo
+* [DDD领域驱动设计](https://www.cnblogs.com/landeanfen/p/4816706.html) - C#进阶系列——DDD领域驱动设计初探
 
 ## IDE
 
@@ -47,6 +49,13 @@
 * [:computer:.NET Reactor](https://www.eziriz.com/) - .Net程序加壳混淆工具，收费软件，提供试用
 * [:computer:Dependency Walker](http://www.dependencywalker.com/) - dll动态链接库反编译工具 
 * [:computer:dotTrace](https://www.jetbrains.com/profiler/features/) - .Net性能分析工具
+* [:computer:ILMerge](https://github.com/dotnet/ILMerge) - 程序集合并工具，避免程序分发时程序集间依赖问题
+
+## 检索工具
+
+* [linux-command](https://wangchujiang.com/linux-command/) - Linux命令行查找
+* [快搜](https://search.chongbuluo.com/) - 各类搜索引擎集合
+* [IP地址查询](https://ip.cn/) - 查询ip地址
 
 ## 代码托管平台
 
@@ -60,6 +69,7 @@
 * [.gitignore.io](https://www.toptal.com/developers/gitignore) - 为你的项目创建必要的.gitignore文件
 * [Gitstar Ranking]( https://gitstar-ranking.com/) - GitHub开源项目全球排名
 * [GitHub emoji表情列表](https://github.com/caiyongji/emoji-list) - GitHub支持使用的emoji合集
+* [HelloGitHub](https://hellogithub.com/) - 分享GitHub上有趣、入门级的开源项目
 
 ## 常用UI资源
 
@@ -131,7 +141,11 @@
 * [Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
 * [Git教程](https://www.runoob.com/git/git-tutorial.html)
 * [正则表达式教程](https://www.runoob.com/regexp/regexp-tutorial.html)
+* [SQLite教程](https://www.runoob.com/sqlite/sqlite-tutorial.html)
 * [SVG教程](https://www.runoob.com/svg/svg-tutorial.html)
+* [UML教程](https://dunwu.github.io/design/uml/)
+* [设计模式](https://dunwu.github.io/design/pattern/) - 23种设计模式详解
+* [Linux基础入门](https://www.lanqiao.cn/courses/1)
 
 ## 简历
 
@@ -191,11 +205,6 @@
 
 * [IT eBooks](https://it-ebooks.info/) - 免费IT类英文电子书下载
 * [鸠摩搜索](https://www.jiumodiary.com/) - 搜索下载各种格式电子书
-
-### 网络
-
-* [IP地址查询](https://ip.cn/) - 查询ip地址
-* [快搜](https://search.chongbuluo.com/) - 各类搜索引擎集合
 
 ### 系统
 
