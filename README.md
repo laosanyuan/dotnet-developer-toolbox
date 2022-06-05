@@ -26,11 +26,13 @@
 
 * [:computer:Snoop](https://github.com/snoopwpf/snoopwpf) - 开源的WPF UI探索工具，可以在调试过程中实时浏览WPF程序的属性、Triggers，设置断点等
 * [:computer:Fiddler](https://www.telerik.com/fiddler) - Http代理抓包，本地客户端工具
-* [:computer:Wireshark](https://www.wireshark.org/) - 网络数据包分析软件
+* [:computer:Wireshark](https://www.wireshark.org/) - 网络数据包分析软件，支持协议种类广泛
 * [:computer:Bus Hound](https://perisoft.net/bushound/) - USB串口抓包软件
 * [:computer:FileZilla](https://filezilla-project.org/) - FTP上传工具，开源免费
 * [:computer:MobaXterm](https://mobaxterm.mobatek.net/) - SSH客户端工具，免费。 全能型终端神器，比传统XShell好用
 * [:computer:Sokit](https://github.com/sinpolib/sokit) - 数据包收发测试工具，操作简单，开源免费。可模拟TCP/UDP客户端服务端
+* [:computer:PostMan](https://www.postman.com/) - 一款支持 http 协议的接口调试与测试工具
+* [:computer:AirTest](https://airtest.netease.com/) - 网易研发的一款UI界面自动化测试工具，测试Winform/WPF神器
 * [SharpLab.io](https://sharplab.io/) - 在线获取C#编译中间过程和结果，可深入理解代码，非常好用
 * [SoJson](https://www.sojson.com/) - 在线Json解析转换
 * [Json.cn](https://www.json.cn/) - 在线Json解析转换
@@ -123,6 +125,8 @@
 * [draw.io](https://www.draw.io/) - 开源在线流程图绘制工具
 * [excalidraw](https://excalidraw.com/) - 轻量的在线白板工具，绘制手绘风格图形
 * [:computer:XMind](https://www.xmind.cn/) -  全功能的思维导图和头脑风暴软件，美观易用
+* [ASCIIFlow](https://asciiflow.com/#/) - ASCII作图工具，页面非常简洁，可以直接绘制出ASCII字符形式的流程图和表格
+* [Desmos](https://www.desmos.com/calculator?lang=zh-CN) - 函数作图工具，支持函数动态变化
 
 ## 工作效率提升
 
@@ -146,6 +150,7 @@
 * [UML教程](https://dunwu.github.io/design/uml/)
 * [设计模式](https://dunwu.github.io/design/pattern/) - 23种设计模式详解
 * [Linux基础入门](https://www.lanqiao.cn/courses/1)
+* [VISUALGO](https://visualgo.net/cn) - 各种算法的可视化演示，算法学习利器
 
 ## 简历
 
@@ -191,6 +196,7 @@
 * [ONLINE-CONVERT](https://image.online-convert.com/convert-to-ico) - 图片转ico
 * [Apowersoft](https://www.apowersoft.cn/image-watermark-remover%20) - 免费在线图片去水印
 * [稿定设计](https://www.gaoding.com/s/newmedia) - 免费在线公众号封面制作、朋友圈封面模板
+* [waifu2x](http://waifu2x.udp.jp/index.zh-CN.html) - 图片无损放大
 
 ### 视频
 
