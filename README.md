@@ -72,6 +72,7 @@
 * [Gitstar Ranking]( https://gitstar-ranking.com/) - GitHub开源项目全球排名
 * [GitHub emoji表情列表](https://github.com/caiyongji/emoji-list) - GitHub支持使用的emoji合集
 * [HelloGitHub](https://hellogithub.com/) - 分享GitHub上有趣、入门级的开源项目
+* [patorjk.com](http://patorjk.com/software/taag) - ASCII艺术字，可用作注释或文档
 
 ## 常用UI资源
 
