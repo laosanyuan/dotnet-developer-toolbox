@@ -2,9 +2,9 @@
 
 ## 简介
 
-本项目整理了一些在.Net开发者可能会经常使用到的一些辅助工具，旨在帮助.Net开发者更专注的编码、更高效的工作。
+本项目整理了一些在我自己作为.Net开发者会经常使用到的一些辅助工具，能让我更专注的编码、更高效的工作。
 
-整理的工具和软件包含了开发、学习、求职、生活等各方面，其中绝大多数都为免费或提供免费使用方式的在线或本地工具以及站点。首次上传，可能有些分类尚不合理或内容有所欠缺，后续会不断补充调整，逐渐完善。也欢迎各位好汉提交PR，为中国.Net开发者提供更多的帮助。
+整理的工具和软件包含了开发、学习、求职、生活等各方面，其中绝大多数都为免费或提供免费使用方式的在线或本地工具以及站点。首次上传，可能有些分类尚不合理或内容有所欠缺，后续会不断补充调整，逐渐完善。
 
 本项目主要收集工具默认为在线工具或站点，如为需要下载的本地工具，则以:computer:图标标记区分。 
 
@@ -25,6 +25,7 @@
 ## 调试工具
 
 * [:computer:Snoop](https://github.com/snoopwpf/snoopwpf) - 开源的WPF UI探索工具，可以在调试过程中实时浏览WPF程序的属性、Triggers，设置断点等
+* [:computer:dotTrace](https://www.jetbrains.com/profiler/features/) - .Net性能分析工具
 * [:computer:Fiddler](https://www.telerik.com/fiddler) - Http代理抓包，本地客户端工具
 * [:computer:Wireshark](https://www.wireshark.org/) - 网络数据包分析软件，支持协议种类广泛
 * [:computer:Bus Hound](https://perisoft.net/bushound/) - USB串口抓包软件
@@ -50,7 +51,6 @@
 * [:computer:dotPeek](https://www.jetbrains.com/zh-cn/decompiler/) - JetBrains出品的免费.Net反编译工具
 * [:computer:.NET Reactor](https://www.eziriz.com/) - .Net程序加壳混淆工具，收费软件，提供试用
 * [:computer:Dependency Walker](http://www.dependencywalker.com/) - dll动态链接库反编译工具 
-* [:computer:dotTrace](https://www.jetbrains.com/profiler/features/) - .Net性能分析工具
 * [:computer:ILMerge](https://github.com/dotnet/ILMerge) - 程序集合并工具，避免程序分发时程序集间依赖问题
 
 ## 检索工具
@@ -132,6 +132,8 @@
 ## 工作效率提升
 
 * [滴答清单](https://dida365.com/) - 清单工具，规划记录工作事项，梳理工作内容
+* [:computer:uTools](https://u.tools/) - 自由组合插件应用，快速搜索、本地工具合集
+* [:computer:Everything](https://www.voidtools.com/zh-cn/) - 轻量本地文件快速搜索软件
 
 ## 刷题
 
@@ -143,7 +145,7 @@
 
 * [YAML入门教程](https://www.runoob.com/w3cnote/yaml-intro.html)
 * [JSON教程](https://www.runoob.com/json/json-tutorial.html)
-* [Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
+* [Markdown教程](https://markdown.com.cn/basic-syntax/)
 * [Git教程](https://www.runoob.com/git/git-tutorial.html)
 * [正则表达式教程](https://www.runoob.com/regexp/regexp-tutorial.html)
 * [SQLite教程](https://www.runoob.com/sqlite/sqlite-tutorial.html)
@@ -197,6 +199,7 @@
 * [ONLINE-CONVERT](https://image.online-convert.com/convert-to-ico) - 图片转ico
 * [Apowersoft](https://www.apowersoft.cn/image-watermark-remover%20) - 免费在线图片去水印
 * [稿定设计](https://www.gaoding.com/s/newmedia) - 免费在线公众号封面制作、朋友圈封面模板
+* [:computer:ScreenToGif](https://www.screentogif.com/downloads) - 一款小而实用的屏幕录制生成gif工具
 * [waifu2x](http://waifu2x.udp.jp/index.zh-CN.html) - 图片无损放大
 
 ### 视频
@@ -215,5 +218,4 @@
 
 ### 系统
 
-* [:computer:Everything](https://www.voidtools.com/zh-cn/) - 轻量本地文件快速搜索软件
 * [:computer:SapceSniffer](https://download.cnet.com/SpaceSniffer/3000-18512_4-10913555.html) - 硬盘空间嗅探器，用以找出占据硬盘的大文件
